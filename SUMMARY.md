@@ -4,6 +4,7 @@
 
 ## Guides
 
+* [Page 1](guides/page-1.md)
 * [Creating your first project](guides/creating-your-first-project.md)
 * [Creating your first task](guides/creating-your-first-task.md)
 * [Advanced permissions](guides/advanced-permissions.md)
